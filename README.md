@@ -1,4 +1,4 @@
-### Welcome to my GitHub 👋
+## Welcome to my GitHub 👋
 
 - 🔭 I’m currently working on free
 - 🌱 I’m currently learning React
