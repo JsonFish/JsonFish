@@ -10,8 +10,8 @@
 <div style="display:flex">
 <img align="" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsonFish&locale=cn&line_height=30&theme=radical&langs_count=3&custom_title=常用语言"/>
 
-<img align="" height='200px' src="https://github-readme-stats.vercel.app/api?username=JsonFish&locale=cn&line_height=40&show_icons=true&hide=issues,contribs&theme=radical&rank_icon=default&custom_title=数据统计"/>
-</div>
+<!-- <img align="" height='200px' src="https://github-readme-stats.vercel.app/api?username=JsonFish&locale=cn&line_height=40&show_icons=true&hide=issues,contribs&theme=radical&rank_icon=default&custom_title=数据统计"/>
+</div> -->
 
 
 
