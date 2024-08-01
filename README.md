@@ -1,10 +1,8 @@
 ## Welcome to my GitHub 👋
 
-#### 🔭 初学者
-
 #### ✨ star✨
 
--  🌐 <a href="https://github.com/JsonFish/blog-project" target="_blank">个人博客</a> 链接：<http://jsonblog.top>
+-  🌐 <a href="https://github.com/JsonFish/blog-project" target="_blank">blog</a> 链接：<http://jsonblog.top>
 <!-- - 📚 <a href="https://github.com/JsonFish/front-end-knowledge-base" target="_blank">前端知识库</a> 访问：<https://jsonfish.github.io/front-end-knowledge-base/> -->
 
 <div style="display:flex">
