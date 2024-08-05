@@ -1,5 +1,4 @@
-## Hello ! I am Json
-## Welcome to my GitHub 👋
+## Hello ! I am Json. Welcome to my GitHub 👋
 
 #### ✨ star✨
 
