@@ -1,2 +1,2 @@
-## Hello! I'm Json
-### Welcome to my GitHub 👋
+## Hi!👋 I'm Json
+Learning in progress
