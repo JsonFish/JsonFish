@@ -1,2 +1,2 @@
-## Hi!👋 I'm Json
+## Hi, I'm Json 👋
 Learning in progress
